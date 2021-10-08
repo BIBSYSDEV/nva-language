@@ -48,7 +48,7 @@ Using a known language means using a known URI. If a language is not known or is
 
 ### Representing multiple languages
 
-If several languages are used in a context (such as a written document) the URI `http://lexvo.org/id/iso639-3/mul` is used, which implies "Multiple languages". If the ISO 639-2/ISO 639-3 code `mis`(miscellaneous language) or related tokens is provided, it MUST be replaced by the expected represention (`mul`).
+If several languages are used in a context (such as a written document) the URI `http://lexvo.org/id/iso639-3/mul` is used, which implies "Multiple languages". If the ISO 639-2/ISO 639-3 code `mis` (miscellaneous language) or related tokens is provided, it MUST be replaced by the expected represention (`mul`).
 
 ### Representing Norwegian language
 
