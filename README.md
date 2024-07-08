@@ -1,7 +1,7 @@
 # nva-language
 
 ## Status: Technical Note 
-## Date: 2021-10-06
+## Date: 2024-07-08
 
 This document defines how languages are treated in the NVA technical platform.
 
