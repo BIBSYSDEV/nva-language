@@ -60,7 +60,7 @@ Norwegian `<http://lexvo.org/id/iso639-3/nor>` as a linguistic concept is not pr
 
 ### Representing Sami languages
 
-Sami languages are represented as Northern Sami `<http://lexvo.org/id/iso639-3/sme>`. This is done with an intention to represent the Sami languages with individual language codes from ISO 639-3, rather than a group code from ISO 639-5. Northern Sami was chosen initially because this is the largest language group in Norway and administrative sources group the languages together as "Samisk", creating a difficulty for non-Sami speakers to make a judgement.
+Sami languages are represented as Northern Sami `<http://lexvo.org/id/iso639-3/sme>`, Southern Sami `<http://lexvo.org/id/iso639-3/sma>`, Lule Sami `<http://lexvo.org/id/iso639-3/smj>`, Pite Sami `<http://lexvo.org/id/iso639-3/sje>`, Skolt Sami `<http://lexvo.org/id/iso639-3/sms>`, Enare Sami`<http://lexvo.org/id/iso639-3/smn>`, Kildin Sami `<http://lexvo.org/id/iso639-3/sjd>`. Sami language group `<http://lexvo.org/id/iso639-5/smi>` is also supported with an intention to represent the Sami languages when the individual sami language is unknown, extinct (ex. Kainuu sami) or when a publication consists of multiple sami languages. 
 
 ### Uses of other systems
 
